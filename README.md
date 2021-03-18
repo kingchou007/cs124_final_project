@@ -14,7 +14,8 @@ This project contains three main components: a motherboard & power supply, a LED
 
 3) Camera: this component is to monitor rooms in real-time.
 
-CS121 Final Project
-2020 spring semester
-University of Vermont
+
+##### CS121 Final Project
+##### 2020 spring semester
+##### University of Vermont
 
